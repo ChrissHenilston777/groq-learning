@@ -1,0 +1,6 @@
+api cookbook for groq
+1)go to groq cloud and create acc
+2)go to api platform ,create api key
+3)go to vs code ,and add extention codegpt-chat
+4)choose groq in provider section
+5)connect to the qroq using groq api key
